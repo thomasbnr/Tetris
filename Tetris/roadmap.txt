@@ -1,0 +1,7 @@
+-arrow to move, space to select bloc and to place it, escape to unselect a bloc
+-make vertical and horizontal lines to increase your score
+
+-3 gamemodes :
+->normal : 3 placement errors = end of game
+->maxBlocBefore : place max bloc before 5000 score
+->survival : how many time do you survive before the score reach 0
